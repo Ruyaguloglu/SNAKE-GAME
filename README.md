@@ -7,7 +7,7 @@ A simple snake game made with Python + Tkinter. Collect food, earn points!
 - Game Over screen
 - Restart with R key
 
-## 🎮 Oyun Demosu
+## 🎮 Game Demo
 
 ![Oyun Demosu](Media/demo.gif)
 
